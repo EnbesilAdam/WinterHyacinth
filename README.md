@@ -36,5 +36,5 @@ If you want to get in touch, discuss project architectures, or check out our com
 
 ---
 <p align="center">
-  <i>Curated and maintained by <b>enbest</b> for the Winterhyacinth Network.</i>
+  <i>Created and maintained by <b>enbest</b> for the Winterhyacinth Network.</i>
 </p>
