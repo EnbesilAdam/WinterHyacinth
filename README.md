@@ -1,4 +1,4 @@
-# ❄️ Winterhyacinthh
+# ❄️ Winterhyacinth
 
 <p align="center">
   <img src="https://i.imgur.com/jlevP0F.jpeg" alt="Winterhyacinth Banner" width="600"/>
@@ -36,5 +36,5 @@ If you want to get in touch, discuss project architectures, or check out our com
 
 ---
 <p align="center">
-  <i>Created and maintained by <b>enbest</b> for the Winterhyacinth Network.</i>
+  <i>Created and maintained by <b>Enbest</b> for the Winterhyacinth Network.</i>
 </p>
