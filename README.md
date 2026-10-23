@@ -32,7 +32,7 @@ We utilize a diverse set of technologies tailored for each specific project's pe
 
 If you want to get in touch, discuss project architectures, or check out our community lines:
 * **Email:** `winterhyacinth.contact@gmail.com`
-* **Discord Hub:** Use our active community channels to reach out to the team.
+* **Discord Hub:** Use our active community channels to reach out to the team..
 
 ---
 <p align="center">
